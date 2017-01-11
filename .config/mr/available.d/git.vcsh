@@ -1,3 +1,2 @@
 [$HOME/.config/vcsh/repo.d/git.git]
-checkout = vcsh clone git@github.com:tfnico/config-git.git git
-
+checkout = vcsh clone git@github.com:maco222/config-git.git git

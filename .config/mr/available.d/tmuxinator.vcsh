@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/tmuxinator.git]
-checkout = vcsh clone git@bitbucket.org.private:tfnico/config-tmuxinator.git tmuxinator
